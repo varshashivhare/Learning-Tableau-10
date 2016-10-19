@@ -9,3 +9,7 @@ Code Snippet:
 | __State__ | __Goals__ |
 |:---------:|:---------:|
 | Wyoming | 20,000 |
+| Wisconsin | 120,000 |
+
+## Related Tableau 10 poducts:
+* []
