@@ -6,5 +6,6 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 Code Snippet:
 
-|__State__|__Goals__|
+| __State__ | __Goals__ |
+|:---------:|:---------:|
 | Wyoming | 20,000 |
