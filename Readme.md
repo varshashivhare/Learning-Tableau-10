@@ -12,4 +12,4 @@ Code Snippet:
 | Wisconsin | 120,000 |
 
 ## Related Tableau 10 poducts:
-* []
+* [Learning Tableau](https://www.packtpub.com/big-data-and-business-intelligence/learning-tableau?utm_source=github&utm_medium=repository&utm_content=9781784391164)
