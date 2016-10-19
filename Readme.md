@@ -10,6 +10,10 @@ Code Snippet:
 |:---------:|:---------:|
 | Wyoming | 20,000 |
 | Wisconsin | 120,000 |
+| West Virginia | 30,000 |
+| Washington | 300,000 |
+| Virginia | 200,000 |
 
 ## Related Tableau 10 poducts:
 * [Learning Tableau](https://www.packtpub.com/big-data-and-business-intelligence/learning-tableau?utm_source=github&utm_medium=repository&utm_content=9781784391164)
+* [Mastering Tableau 10 [Video]](https://www.packtpub.com/big-data-and-business-intelligence/mastering-tableau-10-video?utm_source=github&utm_medium=repository&utm_content=9781786463531)
